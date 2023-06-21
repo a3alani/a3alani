@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Ali, and I am studying <b>Computer Engineering</b> at UC San Diego.
 
