@@ -1,4 +1,4 @@
-# Hi there my name is Ali 👋
+# Hi there, my name is Ali 👋
 
 ## I am studying <b>Computer Engineering</b> at UC San Diego.
 
